@@ -1,0 +1,26 @@
+html {
+  color: rgb(28, 14, 0);
+  font-family: Georgia, serif;
+}
+
+h1 {
+  color: #fff;
+  top: 10px;
+  left: 10px;
+}
+
+.b-head {
+  border-color: #bea586;
+  border-style: solid;
+  border-width: 3px;
+  border-left: 0;
+  border-right: 0;
+}
+
+header {
+  margin-top: 15px;
+}
+
+p, small {
+  font-family: Verdana, sans-serif;
+}
