@@ -1,14 +1,18 @@
 html {
   color: rgb(28, 14, 0);
   font-family: Georgia, serif;
+  background-image: url("../images/sloth-bg.svg");
+  background-size: 48px;
+  background-color: #bea586;
 }
 
 h1 {
   color: #fff;
+  filter: drop-shadow(5px 5px 5px #000);
 }
 
 .first-img {
-  margin: 3px 0 3px;
+  margin: 3px 0;
 }
 
 .img-f {
@@ -17,17 +21,21 @@ h1 {
 }
 
 .b-head {
-  border-color: #bea586;
+  border-color: rgb(28, 14, 0);
   border-style: solid;
-  border-width: 3px;
+  border-width: 2px;
   border-left: 0;
   border-right: 0;
 }
 
 header {
-  margin-top: 15px;
+  margin-top: 11px;
 }
 
 p, small {
   font-family: Verdana, sans-serif;
+}
+
+.dude {
+  background-color: #fff;
 }
